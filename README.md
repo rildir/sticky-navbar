@@ -11,7 +11,8 @@ Dropdown menu feature
 
 ![image](https://github.com/rildir/sticky-navbar/assets/64134742/97ccb6a1-699c-468e-a5e6-3a5831595234)
 
-![image](https://github.com/rildir/sticky-navbar/assets/64134742/e1c8459e-80e8-4b04-83e8-8349c3a98232)
+![image](https://github.com/rildir/sticky-navbar/assets/64134742/0a2a8615-2e0a-45d8-94d0-f5ba11449f77)
+
 
 ## Technologies
 HTML

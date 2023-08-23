@@ -140,6 +140,7 @@
   .navbar .menu-list li a {
     font-size: 23px;
     color: #000;
+    margin-left: 0;
   }
 
   .menu-list li a:hover {
